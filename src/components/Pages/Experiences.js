@@ -10,7 +10,7 @@ import './Experiences.css'
 
 const Experiences = () => {
   return (
-    <div className="experience">
+    <div >
       <VerticalTimeline lineColor = "#3e497a">
         <VerticalTimelineElement 
           className="vertical-timeline-element--education"

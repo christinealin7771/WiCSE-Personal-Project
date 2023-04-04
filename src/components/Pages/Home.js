@@ -32,7 +32,7 @@ const Home = () => {
           <li className="item">
             <h2>Coursework</h2>
             <span>Data Structures and Algorithms, Introduction to Computer Organization, Introduction to Software
-Engineering, Operating Systems, Introduction to Database</span>
+              Engineering, Operating Systems, Introduction to Database</span>
           </li>
         </ol>
       </div>
