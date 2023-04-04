@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/WiCSE-Personal-Project/static/css/main.7acbc4f5.css",
-    "main.js": "/WiCSE-Personal-Project/static/js/main.f382bc1f.js",
-    "static/js/787.c04544ac.chunk.js": "/WiCSE-Personal-Project/static/js/787.c04544ac.chunk.js",
-    "static/media/proj2.jpg": "/WiCSE-Personal-Project/static/media/proj2.7a97a2cec727786f29a3.jpg",
-    "static/media/proj1.jpg": "/WiCSE-Personal-Project/static/media/proj1.165c36179929a2e6b77b.jpg",
-    "static/media/logo.svg": "/WiCSE-Personal-Project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/WiCSE-Personal-Project/index.html",
-    "main.7acbc4f5.css.map": "/WiCSE-Personal-Project/static/css/main.7acbc4f5.css.map",
-    "main.f382bc1f.js.map": "/WiCSE-Personal-Project/static/js/main.f382bc1f.js.map",
-    "787.c04544ac.chunk.js.map": "/WiCSE-Personal-Project/static/js/787.c04544ac.chunk.js.map"
+    "main.css": "/static/css/main.7acbc4f5.css",
+    "main.js": "/static/js/main.5899ee82.js",
+    "static/js/787.c04544ac.chunk.js": "/static/js/787.c04544ac.chunk.js",
+    "static/media/proj2.jpg": "/static/media/proj2.7a97a2cec727786f29a3.jpg",
+    "static/media/proj1.jpg": "/static/media/proj1.165c36179929a2e6b77b.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.7acbc4f5.css.map": "/static/css/main.7acbc4f5.css.map",
+    "main.5899ee82.js.map": "/static/js/main.5899ee82.js.map",
+    "787.c04544ac.chunk.js.map": "/static/js/787.c04544ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acbc4f5.css",
-    "static/js/main.f382bc1f.js"
+    "static/js/main.5899ee82.js"
   ]
 }
