@@ -13,5 +13,11 @@ export const ProjectList = [
         image: proj2,
         skills: "Javascript, React",
         github: "https://github.com/christinealin7771"
+    },
+    {
+        name: "Classmate Finder",
+        image: proj2,
+        skills: "Javascript, React",
+        github: "https://github.com/christinealin7771"
     }
 ]

@@ -1,3 +1,4 @@
+
 .project {
     width: 100%;
     height: calc(150vh - 100px);
@@ -6,31 +7,25 @@
     align-items: center;
     flex-direction: column;
   }
-  
   .project h1 {
     margin-top: 50px;
-    color: #3e497a;
+    color: #3E497A;
     font-size: 35px;
   }
   .project img {
     width: 700px;
     border-radius: 10px;
   }
-  
   .project p {
     font-size: 40px;
-    color: #3e497a;
+    color: #3E497A;
   }
-  
   .project svg {
     font-size: 60px;
-    color: #3e497a;
+    color: #3E497A;
   }
-
   .project .icons:hover {
-
         color: black;
         transition: 0.3s ease-in;
         cursor: pointer;
-    
   }
