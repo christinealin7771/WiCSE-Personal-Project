@@ -6,7 +6,7 @@ const ProjectItem = ({title, image, id}) => {
   const navigate = useNavigate()
 
   return (
-    <div className='projectItem' onClick={() => {navigate("/displayproject/" + id)}}>
+    <div className='projectItem' onClick={() => {navigate("/WiCSE-Personal-Project/displayproject/" + id)}}>
       <div style={{backgroundImage: `url(${image})`}} className='bgImage'/>
       <h1>{title}</h1>
     </div>
